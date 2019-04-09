@@ -1,0 +1,8 @@
+Please follow the instructions below in order to obtain the wanted results:
+1.	Ideally you are supposed to use the prototype (ELISA prototype.csv) given. Otherwise, convert your files (.xlsx, .ods, etc) to .csv format.
+2.	When asked to define positive and negative control cells, please use integers (1, 2, 3, 4, 5, 6, 7, 8 ) instead of letters to describe rows and capitals (X1, X2, X3, X4 ….) for columns.  
+3.	30% and 40% reactivity are described by r30 and r40 respectively.
+4.	Final table indicates positive samples with “+”, negative with “-“  and leaves the respective Optical Density values for samples that fall in the r30<sample<r40 range.
+
+Enjoy your immunosorbent assays,
+FP
